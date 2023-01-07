@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @jidemoto
-- 👀 I’m interested in scalable web services, space science, and secure software systems.
-- 🖥️ I currently work on event-based systems at [Atlassian](https://www.atlassian.com/).
-- 🌱 I’m learning cybersecurity at Georgia Tech
-- 🕒 I used to work at [USRA RIACS](https://riacs.usra.edu/) as a software engineer and [Ripcord](https://www.ripcord.com/) as a Lead Software Engineer.
-- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/james-idemoto/)!  I also have a [site with a cheeky domain name that I've neglected](http://james.idemo.to).
+- 👋 Hi, I’m James Idemoto!
+- 👀 I’m interested in scalable web services and secure software systems.
+- 🌱 I earned a MS in Cybersecurity from Georgia Tech and a BS in Computer Science and Applied Mathematics from San Jose State University
+- 🌎 I'm currently working for [Atlassian](https://www.atlassian.com/) on a Data Platform team that's building streaming systems!
+- 🖥️ I used to work at [Ripcord](https://www.ripcord.com/) as a Lead Software Engineer and Interim Devops Lead building systems with Java on Kubernetes.
+- 🕒 Before that, I worked at [USRA RIACS](https://riacs.usra.edu/) as a software engineer.
+- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/james-idemoto/)!
